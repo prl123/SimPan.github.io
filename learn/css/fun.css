@@ -1,4 +1,4 @@
-/* css 常用样式整理 */
+/* css form disabled/
 .form-control[disabled], .form-control[readonly], fieldset[disabled]  {
 	cursor: not-allowed;
 	background-color: #eeeeee;
